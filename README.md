@@ -1,5 +1,4 @@
 # Abhi
-This is my first repsitory.<br>
-Applying some style-(Rainbow)
+This is my first git repsitory.<br>
 <br>
 Author-Abhishek
